@@ -37,8 +37,8 @@
 ### 📬 Connect with me
 <p align="center">
   <a href="mailto:22bec020@nith.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/anikasharma25/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/anikasharma25"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anika-sharma-549555257"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/anika253"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -46,10 +46,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anikasharma25&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikasharma25&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anika253&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anika253&theme=tokyonight" width="47%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikasharma25&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anika253&layout=compact&theme=tokyonight"/>
 </p>
