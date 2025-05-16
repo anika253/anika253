@@ -5,6 +5,7 @@
   🎓 Electronics and Communication Engineering student at <b>NIT Hamirpur</b> <br />
   👩‍💻 DSA Enthusiast| Competitive Programmer | MERN Stack Developer <br />
   🌱 Currently learning Backend & System Design
+      ---->   Just Managing life between bugs and TLE   <-------
 </p>
 
 ---
