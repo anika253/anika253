@@ -46,9 +46,9 @@
 
 ## 📊 **Coding Journey**
 
-<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anika253&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anika253&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anika253&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=F8FAFC)
 
