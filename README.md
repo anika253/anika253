@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hello World! I'm Anika Sharma 🧑‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F76C6C&width=435&lines=Electronics+Engineer;Full+Stack+Web+Developer;Competitive+Programmer;UI%2FUX+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F76C6C&width=435&lines=Competitive+Programmer;Full+Stack+Web+Developer;r;UI%2FUX+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔋 Electronics Engineer | 🧠 Curious Learner | 💻 Developer by Passion
-- 🧩 Currently exploring **Next.js**, **MongoDB**, and **TailwindCSS**
+- 🔋 Competitive Programmer|💻 stack Developer | 🧠 Curious Learner 
+- 🧩 Currently exploring System desgin , Backend development
 - 🎯 Focused on building scalable full-stack apps
 - 🌱 Actively contributing to open source & hackathons
 
