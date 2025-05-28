@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-- 🔋 Competitive Programmer|💻 stack Developer | 🧠 Curious Learner 
+- 🔋 Competitive Programmer|💻 Full stack Web Developer | 🧠 Curious Learner 
 - 🧩 Currently exploring System desgin , Backend development
 - 🎯 Focused on building scalable full-stack apps
 - 🌱 Actively contributing to open source & hackathons
