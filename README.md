@@ -7,8 +7,8 @@
 
 ### 🚀 About Me
 
-- 🔋 Competitive Programmer|💻 Full stack Web Developer | 🧠 Curious Learner 
-- 🧩 Currently exploring System desgin , Backend development
+- 🔋 Competitive Programmer | 💻 Full Stack Web Developer | 🧠 Curious Learner 
+- 🧩 Currently exploring System Design, Backend Development
 - 🎯 Focused on building scalable full-stack apps
 - 🌱 Actively contributing to open source & hackathons
 
@@ -30,6 +30,17 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+#### 🔙 Backend Technologies
+<p>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6F61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multer-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bcrypt-FFC107?style=for-the-badge"/>
 </p>
 
 #### ☁️ Databases & Cloud
@@ -58,8 +69,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anika253&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 ---
 
