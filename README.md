@@ -10,7 +10,7 @@
 - 🔋 Competitive Programmer || 💻 Full Stack Web Developer || 🧠 Curious Learner 
 - 🧩 Currently exploring System Design, Backend Development
 - 🎯 Focused on building scalable full-stack apps
-- 🌱 Actively contributing to open source & hackathons
+- 🌱 Actively contributing to open source projects & hackathons
 
 ---
 
