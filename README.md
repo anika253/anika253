@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
   <img src="https://img.shields.io/badge/Multer-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Bcrypt-FFC107?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 #### ☁️ Databases & Cloud
