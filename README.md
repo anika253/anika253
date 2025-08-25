@@ -41,7 +41,7 @@
 ---
 
 ## 🏆 Achievements
-- 🔹 1600+ LeetCode rating | 1400+ CodeChef rating  
+- 🔹 1600+ LeetCode rating | 2⭐at codechef 
 - 🔹 Top 10% performer in **Coding Divas 2025**  
 - 🔹 Runner-Up at **Internal Smart India Hackathon** (60+ teams)  
 - 
