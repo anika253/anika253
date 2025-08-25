@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - Passionate about building **scalable web applications** and **cloud-native solutions**  
 - Actively learning **AWS, Docker, and DevOps pipelines**  
-- Solved **1000+ DSA problems** on LeetCode, GFG, and Codechef  
+- I love to code and make **impactful solutions**
 - 📍 From Himachal Pradesh, India  
 
 ---
