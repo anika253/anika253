@@ -69,7 +69,6 @@
 - ⭐ 1600+ LeetCode rating | 2⭐ at CodeChef  
 - 🌟 Top 10% performer in **Coding Divas 2025**  
 - ✨ Runner-Up at **Internal Smart India Hackathon** (60+ teams)  
-- 🥇 District Topper – CBSE Class 10th  
 
 ---
 
@@ -77,12 +76,6 @@
 
 ![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anika253&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anika253&layout=compact&theme=radical)  
-
-🔥 GitHub Streak:  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anika253&theme=radical)](https://git.io/streak-stats)
-
-🏆 GitHub Trophies:  
-![trophy](https://github-profile-trophy.vercel.app/?username=anika253&theme=onedark&no-frame=true&margin-w=5&margin-h=5)
 
 📈 Contribution Graph:  
 ![Anika's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anika253&theme=react-dark&hide_border=true)
