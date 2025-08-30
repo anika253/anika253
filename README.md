@@ -12,7 +12,7 @@
 - Passionate about building **scalable web applications** and **cloud-native solutions**  
 - Actively learning **AWS, Docker, and DevOps pipelines**  
 - I love to code and make **impactful solutions**  
-- 📍 From Himachal Pradesh, India  
+- 📍 From Sirmaur,Himachal Pradesh, India  
 
 ---
 
