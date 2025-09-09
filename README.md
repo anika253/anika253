@@ -4,7 +4,7 @@
 # 👋 Hey there, I'm Anika Sharma  
 
 🎓 B.Tech ECE @ NIT Hamirpur (2026)  
-💻 Full-Stack Developer | Cloud & DevOps Enthusiast | Competitive Programmer  
+💻 Full-Stack Developer | Cloud & DevOps Enthusiast | Competitive Programmer |
 
 ---
 
